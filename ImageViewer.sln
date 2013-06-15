@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageViewer", "ImageViewer\ImageViewer.csproj", "{24A6FA4C-77F0-4032-83BE-B81520CDEE82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageViewer.Lib", "ImageViewer.Lib\ImageViewer.Lib.csproj", "{690A8191-F56F-498D-A030-0BC844E61CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageViewer.Lib.Test", "ImageViewer.Lib.Test\ImageViewer.Lib.Test.csproj", "{185C2DA4-D670-42F8-99FF-5CF2254F3193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A6FA4C-77F0-4032-83BE-B81520CDEE82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A6FA4C-77F0-4032-83BE-B81520CDEE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A6FA4C-77F0-4032-83BE-B81520CDEE82}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{24A6FA4C-77F0-4032-83BE-B81520CDEE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A6FA4C-77F0-4032-83BE-B81520CDEE82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A6FA4C-77F0-4032-83BE-B81520CDEE82}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{690A8191-F56F-498D-A030-0BC844E61CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690A8191-F56F-498D-A030-0BC844E61CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690A8191-F56F-498D-A030-0BC844E61CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690A8191-F56F-498D-A030-0BC844E61CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185C2DA4-D670-42F8-99FF-5CF2254F3193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185C2DA4-D670-42F8-99FF-5CF2254F3193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185C2DA4-D670-42F8-99FF-5CF2254F3193}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{185C2DA4-D670-42F8-99FF-5CF2254F3193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185C2DA4-D670-42F8-99FF-5CF2254F3193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185C2DA4-D670-42F8-99FF-5CF2254F3193}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
